@@ -9,4 +9,4 @@ Classifying the cylindrical bearings based on needle count
 * **[Implementation of CIRCLE DETECTION BY ARC-SUPPORT LINE SEGMENTS](https://github.com/AlanLuSun/Circle-detection)**
 * **[Modified Circular Hough Transform](https://github.com/sayan0506/Classifying-the-cylindrical-bearings-based-on-needle-count/blob/main/IJCCI_ECTA_Djekoune_FullPaper.pdf)**
 * **[CIRCLE DETECTION BY ARC-SUPPORT LINE SEGMENTS](https://github.com/sayan0506/Classifying-the-cylindrical-bearings-based-on-needle-count/blob/main/ICIP%202017-Circle%20detection.pdf)**
-* **[A Fast Randomized Circle Detection Algorithm](https://github.com/sayan0506/Classifying-the-cylindrical-bearings-based-on-needle-count/blob/main/jia2011.pdf)
+* **[A Fast Randomized Circle Detection Algorithm](https://github.com/sayan0506/Classifying-the-cylindrical-bearings-based-on-needle-count/blob/main/jia2011.pdf)**
