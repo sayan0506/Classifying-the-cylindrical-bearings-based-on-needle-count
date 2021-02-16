@@ -17,3 +17,14 @@ Classifying the cylindrical bearings based on needle count
 > * [Module: filter.thresholding](https://scikit-image.org/docs/0.8.0/api/skimage.filter.thresholding.html#skimage.filter.thresholding.threshold_adaptive)
 > * [Adaptive thresholding using Opencv](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_thresholding/py_thresholding.html)
 * [Python Visual Studio code guide](https://code.visualstudio.com/docs/python/jupyter-support)
+
+**Note:**
+
+* Notable hyperparameters that can be trained in later as the Houghcircle parameters may vary
+* List of hyperparameters
+> * Parameter1
+> * Parameter2
+> * Reduction ratio(for both outer and inner detection(500, 350)
+> * Min radius, Max radius
+> * Use of filters(Though Gaussian Blur worked here)
+> * Advanced Denoising Techniques should be implied
