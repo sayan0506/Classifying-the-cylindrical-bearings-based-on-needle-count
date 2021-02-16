@@ -13,3 +13,4 @@ Classifying the cylindrical bearings based on needle count
 * **[Facebook's TransCoder : Translate Code from Python to C++, Java](https://www.youtube.com/watch?v=1VHtP5FV0kM)**
 * **[RANSAC Circle Detection](https://github.com/balcilar/Circle-Aerodrome-Detection)**
 * **[Cropping circle from image using opencv python](https://stackoverflow.com/questions/36911877/cropping-circle-from-image-using-opencv-python)**
+* **[Adaptive Thresholding](https://scikit-image.org/docs/0.12.x/auto_examples/segmentation/plot_threshold_adaptive.html)**
