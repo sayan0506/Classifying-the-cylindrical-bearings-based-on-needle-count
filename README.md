@@ -15,3 +15,4 @@ Classifying the cylindrical bearings based on needle count
 * **[Cropping circle from image using opencv python](https://stackoverflow.com/questions/36911877/cropping-circle-from-image-using-opencv-python)**
 * **[Adaptive Thresholding](https://scikit-image.org/docs/0.12.x/auto_examples/segmentation/plot_threshold_adaptive.html)**
 > * [Module: filter.thresholding](https://scikit-image.org/docs/0.8.0/api/skimage.filter.thresholding.html#skimage.filter.thresholding.threshold_adaptive)
+> * [Adaptive thresholding using Opencv](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_thresholding/py_thresholding.html)
