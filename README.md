@@ -29,3 +29,9 @@ Classifying the cylindrical bearings based on needle count
 > * Min radius(dynamic, 10), Max radius(dynamic, 25)
 > * Use of filters(Though Gaussian Blur worked here)
 > * Advanced Denoising Techniques should be implied
+
+**17.02.2021
+
+* Improve the quality of output image
+* Work with user input, image traversing through folders
+* Pyinstaller for exe creation(Most importantly interactive app build)
