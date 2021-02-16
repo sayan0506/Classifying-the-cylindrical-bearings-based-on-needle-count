@@ -22,9 +22,9 @@ Classifying the cylindrical bearings based on needle count
 
 * Notable hyperparameters that can be trained in later as the Houghcircle parameters may vary
 * List of hyperparameters
-> * Parameter1
-> * Parameter2
+> * Parameter1(25, 100)
+> * Parameter2(75, 30)
 > * Reduction ratio(for both outer and inner detection(500, 350)
-> * Min radius, Max radius
+> * Min radius(dynamic, 10), Max radius(dynamic, 25)
 > * Use of filters(Though Gaussian Blur worked here)
 > * Advanced Denoising Techniques should be implied
