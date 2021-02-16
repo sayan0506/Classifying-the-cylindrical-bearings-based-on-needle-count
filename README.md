@@ -30,7 +30,7 @@ Classifying the cylindrical bearings based on needle count
 > * Use of filters(Though Gaussian Blur worked here)
 > * Advanced Denoising Techniques should be implied
 
-**17.02.2021
+**17.02.2021**
 
 * Improve the quality of output image
 * Work with user input, image traversing through folders
