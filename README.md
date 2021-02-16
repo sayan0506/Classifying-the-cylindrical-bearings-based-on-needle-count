@@ -17,6 +17,7 @@ Classifying the cylindrical bearings based on needle count
 > * [Module: filter.thresholding](https://scikit-image.org/docs/0.8.0/api/skimage.filter.thresholding.html#skimage.filter.thresholding.threshold_adaptive)
 > * [Adaptive thresholding using Opencv](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_thresholding/py_thresholding.html)
 * [Python Visual Studio code guide](https://code.visualstudio.com/docs/python/jupyter-support)
+* [Image Resize with maintaining the scale](https://www.tutorialkart.com/opencv/python/opencv-python-resize-image/)
 
 **Note:**
 
