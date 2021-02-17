@@ -40,3 +40,4 @@ Classifying the cylindrical bearings based on needle count
 **18.02.2021**
 
 * [Building Exe from .py files](https://datatofish.com/executable-pyinstaller/)
+* [PySimpleGUI: The Simple Way to Create a GUI With Python](https://realpython.com/pysimplegui-python/)
