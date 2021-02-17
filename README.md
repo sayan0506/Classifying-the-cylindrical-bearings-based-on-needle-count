@@ -36,3 +36,7 @@ Classifying the cylindrical bearings based on needle count
 * Work with user input, image traversing through folders
 * Pyinstaller for exe creation(Most importantly interactive app build)
 * **[How to convert python project (e.g. Face Recognition System) into .exe file and also into setup file](https://www.youtube.com/watch?v=D6jXMw7STUQhttps://www.youtube.com/watch?v=D6jXMw7STUQ)**
+
+**18.02.2021**
+
+* [Building Exe from .py files](https://datatofish.com/executable-pyinstaller/)
