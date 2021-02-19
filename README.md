@@ -43,3 +43,6 @@ Classifying the cylindrical bearings based on needle count
 * [PySimpleGUI: The Simple Way to Create a GUI With Python](https://realpython.com/pysimplegui-python/)
 * **[Final Implwementation module and accessories](https://github.com/sayan0506/Classifying-the-cylindrical-bearings-based-on-needle-count/tree/main/Bearings_quality_check)**
 * **[Bearing Classifier Executable file Drive link](https://drive.google.com/file/d/1lJGVChk16bie_PJIPpq_Xx3vAUNKm_kq/view?usp=sharing)**
+
+**19.02.2021**
+* [Google Drive Link COntaining Executable and Build Files](https://drive.google.com/drive/folders/1u7escWsKvI_Pp66e5tcPkcjFLZNmd-Ny?usp=sharing)
