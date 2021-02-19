@@ -45,4 +45,4 @@ Classifying the cylindrical bearings based on needle count
 * **[Bearing Classifier Executable file Drive link](https://drive.google.com/file/d/1lJGVChk16bie_PJIPpq_Xx3vAUNKm_kq/view?usp=sharing)**
 
 **19.02.2021**
-* [Google Drive Link COntaining Executable and Build Files](https://drive.google.com/drive/folders/1u7escWsKvI_Pp66e5tcPkcjFLZNmd-Ny?usp=sharing)
+* **[Google Drive Link COntaining Executable and Build Files](https://drive.google.com/drive/folders/1u7escWsKvI_Pp66e5tcPkcjFLZNmd-Ny?usp=sharing)**
