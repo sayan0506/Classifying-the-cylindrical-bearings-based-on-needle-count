@@ -11,7 +11,7 @@ Classifying the cylindrical bearings based on needle count
 
 ***Bad Bearing Detection***
 
-![]()
+![img2](https://github.com/sayan0506/Classifying-the-cylindrical-bearings-based-on-needle-count/blob/main/Images/Bad_demo.PNG)
 
 * **[Reproducible-Image Denoising State of The Art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)**
 * **[Circle detection in noisy a image](https://stackoverflow.com/questions/59014406/circle-detection-in-noisy-a-image)**
