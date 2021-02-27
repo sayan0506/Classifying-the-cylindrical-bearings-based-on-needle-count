@@ -3,8 +3,9 @@ Classifying the cylindrical bearings based on needle count
 
 **Circle Detection**
 
-****Working Demo****
+**[Execution guide](https://github.com/sayan0506/Classifying-the-cylindrical-bearings-based-on-needle-count/blob/main/Cylindrical%20Bearings%20Classification%20Solution.pdf)**
 
+****Working Demo****
 ***Good Bearing Detection***
 
 ![img1](https://github.com/sayan0506/Classifying-the-cylindrical-bearings-based-on-needle-count/blob/main/Images/Good_demo.PNG)
