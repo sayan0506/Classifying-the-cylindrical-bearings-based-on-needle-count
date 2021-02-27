@@ -7,7 +7,7 @@ Classifying the cylindrical bearings based on needle count
 
 ***Good Bearing Detection***
 
-![]()
+![img1](https://github.com/sayan0506/Classifying-the-cylindrical-bearings-based-on-needle-count/blob/main/Images/Good_demo.PNG)
 
 ***Bad Bearing Detection***
 
